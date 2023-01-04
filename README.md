@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hechen93
-- 👀 I’m interested in mixed reality, distributed ledger technologies, and anything that combines the two.
-- 🌱 I’m currently learning solidity, C# (Unity), GCP
+- 👀 I’m a Product Manager working in Fintech | Crypto, looking to better understand Web3 space
+- 🌱 I’m currently learning React, Node, Solidity, and Web3.js
 - 💞️ I’m looking to collaborate on any fin-tech related projects using the technologies above.
 - 📫 How to reach me > Through the University of Calgary's iLab directory site
 
