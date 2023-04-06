@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hechen93
-- 👀 I’m a Product Manager working in Fintech | Crypto, looking to better understand Web3 space
-- 🌱 I’m currently learning React, Node, Solidity, and Web3.js
+- 👀 I’m interested in Fintech | Crypto, looking to better understand Web3 space
+- 🌱 I’m currently learning Rust and Ethereum
 - 💞️ I’m looking to collaborate on any fin-tech related projects using the technologies above.
-- 📫 How to reach me > Through the University of Calgary's iLab directory site
+- 📫 How to reach me > Through the University of Calgary's DeFi Lab (Haskayne School of Business)
 
 <!---
 Hechen93/Hechen93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
